@@ -6,7 +6,7 @@ public class Saito {
 		// TODO 自動生成されたメソッド・スタブ
 		int i = 0;
 		while(true){
-			System.out.println("GoodDay");
+			System.out.println("GoodBye");
 		i++;
 		if(i == 10){
 			break;
